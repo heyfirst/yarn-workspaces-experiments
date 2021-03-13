@@ -1,0 +1,16 @@
+{
+  "name": "yarn-workspaces-experiments",
+  "private": true,
+  "version": "1.0.0",
+  "main": "./app/index.js",
+  "repository": "git@github.com:heyfirst/yarn-workspaces-experiments.git",
+  "author": "Kanisorn Sutham <firstziiz.k@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "app",
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "yarn workspace app start"
+  }
+}

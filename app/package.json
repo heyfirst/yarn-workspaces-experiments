@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@packages/plus": "1.0.0",
+    "@packages/minus": "1.0.0",
+    "@packages/multiply": "1.0.0",
+    "@packages/divide": "1.0.0"
+  }
+}
