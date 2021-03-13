@@ -1,6 +1,11 @@
 {
-  "name": "@packages/plus",
+  "name": "@heyfirst/plus",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Kanisorn Sutham <kanisorns.k@gmail.com>",
+  "repository": "git@github.com:heyfirst/yarn-workspaces-experiments.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/heyfirst"
+  }
 }

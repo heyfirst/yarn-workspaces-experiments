@@ -7,9 +7,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@packages/plus": "1.0.0",
-    "@packages/minus": "1.0.0",
-    "@packages/multiply": "1.0.0",
-    "@packages/divide": "1.0.0"
+    "@heyfirst/plus": "1.0.0",
+    "@heyfirst/minus": "1.0.0",
+    "@heyfirst/multiply": "1.0.0",
+    "@heyfirst/divide": "1.0.0"
   }
 }

@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "./app/index.js",
   "repository": "git@github.com:heyfirst/yarn-workspaces-experiments.git",
-  "author": "Kanisorn Sutham <firstziiz.k@gmail.com>",
+  "author": "Kanisorn Sutham <kanisorns.k@gmail.com>",
   "license": "MIT",
   "workspaces": [
     "app",
