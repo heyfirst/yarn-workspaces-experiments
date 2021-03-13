@@ -4,6 +4,8 @@
 
 It helps to managing internal dependencies.
 
+You can read more in this link [Yarn Workspaces](https://yarnpkg.com/features/workspaces)
+
 ### How monorepo works?
 
 read this one ["Why you should use a single repository for all your company’s projects"](https://www.drmaciver.com/2016/10/why-you-should-use-a-single-repository-for-all-your-companys-projects/) 
@@ -41,3 +43,5 @@ We can define `package.json` in the package that you want to publish like this
 ```
 
 and then you can run the command `npm publish` to push your package to the cloud.
+
+You can read more about `package.json` file in [Package.json document](https://docs.npmjs.com/cli/v7/configuring-npm/package-json) 
